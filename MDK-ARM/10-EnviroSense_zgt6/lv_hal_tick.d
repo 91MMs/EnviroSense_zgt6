@@ -1,0 +1,15 @@
+10-envirosense_zgt6\lv_hal_tick.o: ..\Middlewares\Third_Party\LVGL\GUI\lvgl\src\hal\lv_hal_tick.c
+10-envirosense_zgt6\lv_hal_tick.o: ..\Middlewares\Third_Party\LVGL\GUI\lvgl\src\hal\lv_hal_tick.h
+10-envirosense_zgt6\lv_hal_tick.o: ..\Middlewares\Third_Party\LVGL\GUI\lvgl\src\hal\../lv_conf_internal.h
+10-envirosense_zgt6\lv_hal_tick.o: F:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+10-envirosense_zgt6\lv_hal_tick.o: ..\Middlewares\Third_Party\LVGL\GUI\lvgl\src\hal\../lv_conf_kconfig.h
+10-envirosense_zgt6\lv_hal_tick.o: ..\Middlewares\Third_Party\LVGL\GUI\lvgl\src\hal\../../lv_conf.h
+10-envirosense_zgt6\lv_hal_tick.o: F:\MDK5\ARM\ARMCC\Bin\..\include\stdbool.h
+10-envirosense_zgt6\lv_hal_tick.o: F:\MDK5\ARM\ARMCC\Bin\..\include\stddef.h
+10-envirosense_zgt6\lv_hal_tick.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+10-envirosense_zgt6\lv_hal_tick.o: ../Core/Inc/FreeRTOSConfig.h
+10-envirosense_zgt6\lv_hal_tick.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+10-envirosense_zgt6\lv_hal_tick.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+10-envirosense_zgt6\lv_hal_tick.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+10-envirosense_zgt6\lv_hal_tick.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+10-envirosense_zgt6\lv_hal_tick.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h

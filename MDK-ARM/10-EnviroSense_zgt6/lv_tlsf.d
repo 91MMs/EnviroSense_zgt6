@@ -1,0 +1,13 @@
+10-envirosense_zgt6\lv_tlsf.o: ..\Middlewares\Third_Party\LVGL\GUI\lvgl\src\misc\lv_tlsf.c
+10-envirosense_zgt6\lv_tlsf.o: ..\Middlewares\Third_Party\LVGL\GUI\lvgl\src\misc\../lv_conf_internal.h
+10-envirosense_zgt6\lv_tlsf.o: F:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+10-envirosense_zgt6\lv_tlsf.o: ..\Middlewares\Third_Party\LVGL\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+10-envirosense_zgt6\lv_tlsf.o: ..\Middlewares\Third_Party\LVGL\GUI\lvgl\src\misc\../../lv_conf.h
+10-envirosense_zgt6\lv_tlsf.o: F:\MDK5\ARM\ARMCC\Bin\..\include\limits.h
+10-envirosense_zgt6\lv_tlsf.o: ..\Middlewares\Third_Party\LVGL\GUI\lvgl\src\misc\lv_tlsf.h
+10-envirosense_zgt6\lv_tlsf.o: F:\MDK5\ARM\ARMCC\Bin\..\include\stddef.h
+10-envirosense_zgt6\lv_tlsf.o: ..\Middlewares\Third_Party\LVGL\GUI\lvgl\src\misc\lv_mem.h
+10-envirosense_zgt6\lv_tlsf.o: F:\MDK5\ARM\ARMCC\Bin\..\include\string.h
+10-envirosense_zgt6\lv_tlsf.o: ..\Middlewares\Third_Party\LVGL\GUI\lvgl\src\misc\lv_types.h
+10-envirosense_zgt6\lv_tlsf.o: ..\Middlewares\Third_Party\LVGL\GUI\lvgl\src\misc\lv_log.h
+10-envirosense_zgt6\lv_tlsf.o: ..\Middlewares\Third_Party\LVGL\GUI\lvgl\src\misc\lv_assert.h

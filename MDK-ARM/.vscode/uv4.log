@@ -1,0 +1,14 @@
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'F:\MDK5\ARM\ARMCC\Bin'
+Build target '10-EnviroSense_zgt6'
+compiling ui_screen_devices_details.c...
+linking...
+10-EnviroSense_zgt6\10-EnviroSense_zgt6.axf: Error: L6218E: Undefined symbol LOG_DEBUG (referred from ui_screen_devices_details.o).
+10-EnviroSense_zgt6\10-EnviroSense_zgt6.axf: Error: L6218E: Undefined symbol LOG_ERROR (referred from ui_screen_devices_details.o).
+10-EnviroSense_zgt6\10-EnviroSense_zgt6.axf: Error: L6218E: Undefined symbol LOG_INFO (referred from ui_screen_devices_details.o).
+10-EnviroSense_zgt6\10-EnviroSense_zgt6.axf: Error: L6218E: Undefined symbol LOG_WARN (referred from ui_screen_devices_details.o).
+Not enough information to list image symbols.
+Not enough information to list load addresses in the image map.
+Finished: 2 information, 0 warning and 4 error messages.
+"10-EnviroSense_zgt6\10-EnviroSense_zgt6.axf" - 4 Error(s), 0 Warning(s).
+Target not created.
+Build Time Elapsed:  00:00:09

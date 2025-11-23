@@ -1,0 +1,16 @@
+10-envirosense_zgt6\lv_font.o: ..\Middlewares\Third_Party\LVGL\GUI\lvgl\src\font\lv_font.c
+10-envirosense_zgt6\lv_font.o: ..\Middlewares\Third_Party\LVGL\GUI\lvgl\src\font\lv_font.h
+10-envirosense_zgt6\lv_font.o: ..\Middlewares\Third_Party\LVGL\GUI\lvgl\src\font\../lv_conf_internal.h
+10-envirosense_zgt6\lv_font.o: F:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+10-envirosense_zgt6\lv_font.o: ..\Middlewares\Third_Party\LVGL\GUI\lvgl\src\font\../lv_conf_kconfig.h
+10-envirosense_zgt6\lv_font.o: ..\Middlewares\Third_Party\LVGL\GUI\lvgl\src\font\../../lv_conf.h
+10-envirosense_zgt6\lv_font.o: F:\MDK5\ARM\ARMCC\Bin\..\include\stddef.h
+10-envirosense_zgt6\lv_font.o: F:\MDK5\ARM\ARMCC\Bin\..\include\stdbool.h
+10-envirosense_zgt6\lv_font.o: ..\Middlewares\Third_Party\LVGL\GUI\lvgl\src\font\lv_symbol_def.h
+10-envirosense_zgt6\lv_font.o: ..\Middlewares\Third_Party\LVGL\GUI\lvgl\src\font\../misc/lv_area.h
+10-envirosense_zgt6\lv_font.o: ..\Middlewares\Third_Party\LVGL\GUI\lvgl\src\font\../misc/lv_utils.h
+10-envirosense_zgt6\lv_font.o: ..\Middlewares\Third_Party\LVGL\GUI\lvgl\src\font\../misc/lv_log.h
+10-envirosense_zgt6\lv_font.o: ..\Middlewares\Third_Party\LVGL\GUI\lvgl\src\font\../misc/lv_types.h
+10-envirosense_zgt6\lv_font.o: ..\Middlewares\Third_Party\LVGL\GUI\lvgl\src\font\../misc/lv_assert.h
+10-envirosense_zgt6\lv_font.o: ..\Middlewares\Third_Party\LVGL\GUI\lvgl\src\font\../misc/lv_mem.h
+10-envirosense_zgt6\lv_font.o: F:\MDK5\ARM\ARMCC\Bin\..\include\string.h
